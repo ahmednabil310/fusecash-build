@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Integral CF';
+    src: url(./fonts/IntegralCF-Heavy.woff2) format('woff2'),
+        url(./fonts/IntegralCF-Heavy.woff) format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Avenir';
+    src: url(./fonts/Avenir-Medium.woff2) format('woff2'),
+        url(./fonts/Avenir-Medium.woff) format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Avenir LT Std';
+    src: url(./fonts/AvenirLTStd-Book.woff2) format('woff2'),
+        url(./fonts/AvenirLTStd-Book.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Avenir 85';
+    src: url(./fonts/Avenir-Heavy.woff2) format('woff2'),
+        url(./fonts/Avenir-Heavy.woff) format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url(./fonts/Lato-Light.woff2) format('woff2'),
+        url(./fonts/Lato-Light.woff) format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url(./fonts/Lato-Regular.woff2) format('woff2'),
+        url(./fonts/Lato-Regular.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url(./fonts/Lato-Bold.woff2) format('woff2'),
+        url(./fonts/Lato-Bold.woff) format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
